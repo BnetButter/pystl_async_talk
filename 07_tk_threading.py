@@ -18,4 +18,4 @@ trd.start()
 trd.join()
 
 # Show what it is suppposed to looklike here
-app.mainloop()
+#app.mainloop()
